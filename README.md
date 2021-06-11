@@ -1,4 +1,10 @@
-### Hi there 👋
+<a href="https://github.com/Brainmantis07/Brainmantis07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brainmantis07&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/Brainmantis07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainmantis07&show_icons=true&theme=dracula" />
+</a>
+
 
 <!--
 **Brainmantis07/Brainmantis07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
