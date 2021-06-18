@@ -1,8 +1,8 @@
 <a href="https://github.com/Brainmantis07/Brainmantis07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brainmantis07&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brainmantis07&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Brainmantis07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainmantis07&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainmantis07&show_icons=true&theme=dark" />
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brainmantis07&theme=dark" alt="srahmanistic" /></p>
