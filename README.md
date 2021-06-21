@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainmantis07&show_icons=true&theme=dark" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brainmantis07&theme=dark"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brainmantis07&theme=dark"/></p>
 
 
 <!--
